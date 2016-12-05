@@ -8,6 +8,9 @@ http://docs.zope.org/zope2/
 2.13.25 (unreleased)
 --------------------
 
+- Patch zope.interface to remove docstrings and avoid publishing.
+  From Products.PloneHotfix20161129.  [maurits]
+
 - Quote variables in manage_tabs and manage_container to avoid XSS.
   From Products.PloneHotfix20160830.  [maurits]
 

@@ -11,6 +11,8 @@ https://zope.readthedocs.io/en/2.13/CHANGES.html
 Bugs Fixed
 ++++++++++
 
+- Patch zope.interface to remove docstrings and avoid publishing.
+  From Products.PloneHotfix20161129.
 
 Features Added
 ++++++++++++++
